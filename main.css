@@ -822,6 +822,8 @@
 }
 
 
+/********************************************************************************/
+
 
 @media (max-width: 478px) {
     .logoChanges{
@@ -876,10 +878,11 @@
     }
     .certificate h3{
         font-size: 12px;
+        padding:20px 5px ;
     }
 
     .badges{
-        padding:  10px 5px 10px;
+        padding:  25px 5px 25px;
     }
 
     .myAchievements h2{
